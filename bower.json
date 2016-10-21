@@ -1,0 +1,21 @@
+{
+  "name": "FileStructureandSimpleServer",
+  "homepage": "https://github.com/CCube3/LoginRegistration",
+  "authors": [
+    "Carmen Chung"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8"
+  }
+}
